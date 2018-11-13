@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const PREFIX = "FR"
+const PREFIX = "RF"
 const Util = require('discord.js');
  
 const getYoutubeID = require('get-youtube-id');
